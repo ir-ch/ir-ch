@@ -1,16 +1,37 @@
-## Hi there 👋
+<br>
+<h1 align="center">Hello! I'm Irina 👋</h1>
+<br>
 
-<!--
-**ir-ch/ir-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I'm a Junior Frontend Developer with experience in C++ development C++. Some time ago I became interested in Web development, namely the part that is responsible for UX and UI. And I'm very glad that I decided to try myself in this area.
+  <br>
+  <br> ✅ Completed 'Web development' and 'JavaScript & React' courses on Udemy platform
+  <br> 📚 Continue to develop my technical and soft skills
+  <br> 💃 Continue to improve my dancing skills and padel tennis game
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h2 align="center">Socials</h2>
+<br>
+
+<p align="center">
+  <a href="https://t.me/iriches">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/irinachesnokova">
+    <img src="https://img.shields.io/badge/LinkedIn-3162C4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+<br>
+<h2 align="center">Tech Stack</h2>
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,ps,npm,vite,vscode,redux,git,gulp" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,cpp,qt,cmake" />
+  </a>
+</p>
