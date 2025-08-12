@@ -3,7 +3,7 @@
 <br>
 
 <p>
-  I'm a Junior Frontend Developer with experience in C++ development C++. Some time ago I became interested in Web development, namely the part that is responsible for UX and UI. And I'm very glad that I decided to try myself in this area.
+  I'm a Junior Frontend Developer with experience in C++ development. Some time ago I became interested in Web development, namely the part that is responsible for UX and UI. And I'm very glad that I decided to try myself in this area.
   <br>
   <br> ✅ Completed 'Web development' and 'JavaScript & React' courses on Udemy platform
   <br> 📚 Continue to develop my technical and soft skills
